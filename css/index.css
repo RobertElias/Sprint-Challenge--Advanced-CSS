@@ -257,6 +257,12 @@ footer {
   border-radius: 10px;
   color: white;
 }
+.home .walk .walk-text .sign:hover {
+  background-color: #22283A;
+  color: white;
+  background-color: white;
+  color: #22283A;
+}
 @media (max-width: 500px) {
   .home .walk .walk-text .sign {
     width: 100%;
