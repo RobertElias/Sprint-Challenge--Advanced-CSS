@@ -1,3 +1,4 @@
+# Robert Elias
 # Sprint Challenge: Advanced CSS - Space Walkers Web Page
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored advanced CSS techniques using Responsive Design and Preprocessing. During this Sprint, you studied how to use the viewport meta tag, media queries, setting up a preprocessor, and advanced use of preprocessing techniques. In your challenge this week, you will demonstrate proficiency by updating a website that is missing content as well as adding mobile styling.
@@ -34,13 +35,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+Adaptive web design promotes the creation of multiple versions of a web page to better fit the user's device, as opposed to a single static page which loads the same on all devices . Responsive sites tend to have media queries programmed to meet the many types of devices that are used be customers. 
+
 2. Describe what it means to be mobile first vs desktop first.
+
+Mobile first is to design your site based on the common mobile devices that are in the market. In contrast desktop first takes into consideration that the development is first writing for desktops then using media queries for mobile adjustments.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+This means that 1rem will equate to 10px making it easier to adjust rems by 10's etc.
+
 4. How would you describe preprocessing to someone new to CSS?
 
+Preprocessing is just a way to write css with less code letting the preprocessor write the full css file for the devloper.
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+My favorite is setting variables, and some mixins. What gives me a bit of struggle is nesting within the code. That can confuse me. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
